@@ -56,6 +56,6 @@
 
 ## 데모 영상
 
-
+<img src="https://github.com/user-attachments/assets/01924bab-b68d-4c81-82a9-f82e77c6a916">
 
 
