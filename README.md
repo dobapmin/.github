@@ -54,6 +54,28 @@
 <br>
 
 
-## 데모 영상
+## 📹 데모 영상
 
+<br>
 
+## 🫂 멤버
+<table>
+  <tr>
+    <td align="center"><img width="150" alt="dobapmin-박고은" src="https://avatars.githubusercontent.com/u/97538651?v=4"></td>
+    <td align="center"><img width="150" alt="dobapmin-박준승" src="https://avatars.githubusercontent.com/u/125808024?v=4"></td>
+    <td align="center"><img width="150" alt="dobapmin-문종근" src="https://avatars.githubusercontent.com/u/114092152?v=4"></td>
+    <td align="center"><img width="150" alt="dobapmin-이유진" src="https://avatars.githubusercontent.com/u/98758209?v=4"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/goeunP">박고은</a></td>
+    <td align="center"><a href="https://github.com/Pasak22">박준승</a></td>
+    <td align="center"><a href="https://github.com/why-only-english">문종근</a></td>
+    <td align="center"><a href="https://github.com/ZZZINU">이유진</a></td>
+  </tr>
+  <tr>
+    <td align="center"> 팀장(예시) </td>
+    <td align="center"> 팀원(예시) </td>
+    <td align="center"> 팀원(예시) </td>
+    <td align="center"> 팀원(예시) </td>
+  </tr>
+</table>
