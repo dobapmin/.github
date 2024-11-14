@@ -75,9 +75,9 @@
     <td align="center"><a href="https://github.com/ZZZINU">이유진</a></td>
   </tr>
   <tr>
-    <td align="center"> 팀장(예시) </td>
-    <td align="center"> 팀원(예시) </td>
-    <td align="center"> 팀원(예시) </td>
-    <td align="center"> 팀원(예시) </td>
+    <td align="center"> <b>팀장</b><br>기획<br>디자인<br>react<br>express<br>node.js </td>
+    <td align="center"> 팀원 </td>
+    <td align="center"> 팀원 </td>
+    <td align="center"> 팀원 </td>
   </tr>
 </table>
