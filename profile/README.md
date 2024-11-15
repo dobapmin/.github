@@ -76,8 +76,8 @@
   </tr>
   <tr>
     <td align="center"> <b>팀장</b><br>기획<br>디자인<br>react<br>express<br>node.js </td>
-    <td align="center"> 팀원 </td>
-    <td align="center"> 팀원 </td>
-    <td align="center"> 팀원 </td>
+    <td align="center"> <b>팀장</b><br>기획<br>디자인<br>react<br>express<br>node.js </td>
+    <td align="center"> <b>팀장</b><br>기획<br>디자인<br>react<br>express<br>node.js </td>
+    <td align="center"> <b>팀장</b><br>기획<br>디자인<br>react<br>express<br>node.js </td>
   </tr>
 </table>
